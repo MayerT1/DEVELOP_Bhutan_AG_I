@@ -8,9 +8,11 @@
 5. GEE Repo for the project = [DEVELOP_BHUTAN_AG_I](https://code.earthengine.google.com/?accept_repo=users/tjm0042/DEVELOP_BHUTAN_AG_I)
 6. GEE Assest Space set-up = [GEE Asset Space SCO Setup Guide](https://docs.google.com/document/d/1ZwBueyU2gPzakb3a9cdOUFp4DKnMJV9PzYi3JYAUEn0/edit)
 7. Skype Channel (Main area to talk with Science Advisors) = [Bhutan_AG_I](https://join.skype.com/hTK6EQEIaFDz)
-8. Collect Earth Online (CEO) Content = [Data Collection Manual](https://collect.earth/downloads/CEO_Manual_DataCollector_EN_20210331.pdf)
-9. CEO Video = [Collect Earth - land monitoring through visual interpretation](https://youtu.be/3cxyFXt15aM)
-10. CEO Creating a new Collect Earth survey= [Creating a new Collect Earth survey](https://www.youtube.com/watch?v=j2ruGSzJg0Y)
+</p>
+Collect Earth Online (CEO)
+Collect Earth Online (CEO) Content = [Data Collection Manual](https://collect.earth/downloads/CEO_Manual_DataCollector_EN_20210331.pdf)
+10. CEO Video = [Collect Earth - land monitoring through visual interpretation](https://youtu.be/3cxyFXt15aM)
+11. CEO Creating a new Collect Earth survey= [Creating a new Collect Earth survey](https://www.youtube.com/watch?v=j2ruGSzJg0Y)
 
 ##
 #add more files/content here 
