@@ -10,7 +10,6 @@
 7. Skype Channel (Main area to talk with Science Advisors) = [Bhutan_AG_I](https://join.skype.com/hTK6EQEIaFDz)
 8. Collect Earth Online (CEO) Content = [Data Collection Manual](https://collect.earth/downloads/CEO_Manual_DataCollector_EN_20210331.pdf)
 9. CEO Video = [Collect Earth - land monitoring through visual interpretation](https://youtu.be/3cxyFXt15aM)
-10. CEO Creating a new Collect Earth survey= [Creating a new Collect Earth survey](https://www.youtube.com/watch?v=j2ruGSzJg0Y)
 
 ##
 #add more files/content here 
