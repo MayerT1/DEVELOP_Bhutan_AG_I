@@ -11,6 +11,7 @@
 8. Collect Earth Online (CEO) Content = [Data Collection Manual](https://collect.earth/downloads/CEO_Manual_DataCollector_EN_20210331.pdf)
 9. CEO Video = [Collect Earth - land monitoring through visual interpretation](https://youtu.be/3cxyFXt15aM)
 10. Random Forest methods = [r-tools](https://github.com/dcarver1/r_tools-)
+11. Random Forest Video = [StatQuest: Random Forests Part 1 - Building, Using and Evaluating](https://youtu.be/J4Wdy0Wc_xQ)
 ![](Bhutan_AG_I_Intial_Workflow1.jpg)
 ##
 #add more files/content here 
