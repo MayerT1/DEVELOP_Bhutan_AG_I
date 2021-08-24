@@ -9,9 +9,11 @@
 6. GEE Assest Space set-up = [GEE Asset Space SCO Setup Guide](https://docs.google.com/document/d/1ZwBueyU2gPzakb3a9cdOUFp4DKnMJV9PzYi3JYAUEn0/edit)
 7. Skype Channel (Main area to talk with Science Advisors) = [Bhutan_AG_I](https://join.skype.com/hTK6EQEIaFDz)
 8. Collect Earth Online (CEO) Content = [Data Collection Manual](https://collect.earth/downloads/CEO_Manual_DataCollector_EN_20210331.pdf)
-9. CEO Video = [Collect Earth - land monitoring through visual interpretation](https://youtu.be/3cxyFXt15aM)
-10. Random Forest methods = [r-tools](https://github.com/dcarver1/r_tools-)
-11. Random Forest Video = [StatQuest: Random Forests Part 1 - Building, Using and Evaluating](https://youtu.be/J4Wdy0Wc_xQ)
+9. Random Forest methods = [r-tools](https://github.com/dcarver1/r_tools-)
+##
+11. CEO Video = [Collect Earth - land monitoring through visual interpretation](https://youtu.be/3cxyFXt15aM)
+12. Random Forest Video = [StatQuest: Random Forests Part 1 - Building, Using and Evaluating](https://youtu.be/J4Wdy0Wc_xQ)
+13. GEE Classification video = [Supervised Classification](https://youtu.be/NPplRtH2N94)
 ![](Bhutan_AG_I_Intial_Workflow1.jpg)
 ##
 #add more files/content here 
